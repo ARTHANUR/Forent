@@ -24,6 +24,6 @@ cd forent
 
 ## Deployment
 
-- [Forent Demo]([https://your-username.github.io/forent](https://forent-accio-contest-2.onrender.com))
+Web Page is hosted [Here](https://forent-accio-contest-2.onrender.com).
 
 
