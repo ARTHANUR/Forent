@@ -18,9 +18,9 @@ cd forent
 
 ## Images
 
-![Screenshot 1]([./images/screenshot1.png](https://res.cloudinary.com/dboa7dqkl/image/upload/v1705745289/Accio%20projects/Screenshot_2024-01-20_153606_ml1kyu.png))
-![Screenshot 2]([./images/screenshot2.png](https://res.cloudinary.com/dboa7dqkl/image/upload/v1705745290/Accio%20projects/Screenshot_2024-01-20_153638_khkuli.png))
-![Screenshot 2]([./images/screenshot2.png](https://res.cloudinary.com/dboa7dqkl/image/upload/v1705745292/Accio%20projects/Screenshot_2024-01-20_153736_w6la37.png))
+![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1705745289/Accio%20projects/Screenshot_2024-01-20_153606_ml1kyu.png)
+![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1705745290/Accio%20projects/Screenshot_2024-01-20_153638_khkuli.png)
+![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1705745292/Accio%20projects/Screenshot_2024-01-20_153736_w6la37.png)
 
 ## Deployment
 
