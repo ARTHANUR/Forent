@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+    background-color: #1F1F1F;
+}
+header{
+    width: 100vw;
+    height: 137px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+header>input{
+    width: 597px;
+    height: 53px;
+    border-radius: 15px;
+    background-color: #262626;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    opacity: 20%;
+}
+header>h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    color: #FFFFFF;
+}
+header>div{
+    width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header>div>button{
+    width: 134px;
+    height: 53px;
+    border-radius: 15px;
+    background-color: #262626;
+    border: none;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+/* ///////////////////////////////////////////////////////////////Header done//////////////////////////////////////////// */
+
